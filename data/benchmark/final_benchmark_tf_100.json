@@ -1,0 +1,1208 @@
+[
+  {
+    "id": 1,
+    "type": "TrueFalse",
+    "question": "根据预案，应急部应建立健全海上溢油应急管理和培训制度。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则90，国务院有关部门、相关地方人民政府和企事业单位应当建立健全海上溢油应急管理和培训制度，而不是应急部。",
+    "related_rule_id": [
+      "90"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案__1.json"
+  },
+  {
+    "id": 2,
+    "type": "TrueFalse",
+    "question": "中国海上溢油应急中心负责制定国家重大海上溢油应急培训与演练计划，并定期组织培训和演练。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则22，中国海上溢油应急中心确实制定国家重大海上溢油应急培训与演练计划，并定期组织应急预案框架下的培训和演练。",
+    "related_rule_id": [
+      "22"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案__1.json"
+  },
+  {
+    "id": 3,
+    "type": "TrueFalse",
+    "question": "国家重大海上溢油应急处置部际联席会议成员单位应配合组织预案的宣传。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则92，成员单位负责组织预案的宣传，定期开展海上溢油应急演练，并组织培训和培训，而不是配合。",
+    "related_rule_id": [
+      "92"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案__1.json"
+  },
+  {
+    "id": 4,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生较大突发环境事件时，启动Ⅲ级应急响应，由事发地设区的市级人民政府负责应对工作。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则7，初判发生较大突发环境事件时，启动Ⅲ级应急响应，由事发地设区的市级人民政府负责应对工作。",
+    "related_rule_id": [
+      "7"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发环境事件应急预案__1.json"
+  },
+  {
+    "id": 5,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生特别重大突发环境事件时，启动Ⅰ级应急响应，由事发地设区的市级人民政府负责应对工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则7，初判发生特别重大或重大突发环境事件时，分别启动Ⅰ级或Ⅱ级应急响应，应由事发地省级人民政府负责应对工作，而不是市级人民政府。",
+    "related_rule_id": [
+      "7"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发环境事件应急预案__1.json"
+  },
+  {
+    "id": 6,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生一般突发环境事件时，启动Ⅳ级应急响应，由事发地省级人民政府负责应对工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则7，初判发生一般突发环境事件时，启动Ⅳ级应急响应，应由事发地县级人民政府负责应对工作，而不是省级人民政府。",
+    "related_rule_id": [
+      "7"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发环境事件应急预案__1.json"
+  },
+  {
+    "id": 7,
+    "type": "TrueFalse",
+    "question": "根据预案，必要时，由应急部成立国家大面积停电事件应急指挥部，统一领导、组织和指挥大面积停电事件应对工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则3，应由国务院或国务院授权发展改革委成立国家大面积停电事件应急指挥部，而不是应急部。",
+    "related_rule_id": [
+      "3"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家大面积停电事件应急预案.json"
+  },
+  {
+    "id": 8,
+    "type": "TrueFalse",
+    "question": "根据预案，对初判为一般大面积停电事件，省级人民政府和能源局要立即向国务院报告。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则17，只对初判为重大以上的大面积停电事件，省级人民政府和能源局才需要向国务院报告，一般事件无此要求。",
+    "related_rule_id": [
+      "17"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家大面积停电事件应急预案.json"
+  },
+  {
+    "id": 9,
+    "type": "TrueFalse",
+    "question": "根据预案，在初判发生重大或特别重大大面积停电事件时，国务院工作组应及时向国务院报告相关情况。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则36，在初判发生重大或特别重大大面积停电事件时，国务院工作组应及时向国务院报告相关情况。",
+    "related_rule_id": [
+      "36"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家大面积停电事件应急预案.json"
+  },
+  {
+    "id": 10,
+    "type": "TrueFalse",
+    "question": "根据预案，在重大地震灾害中，救灾物资的跨地区调运应由应急部负责。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则59，应由国务院抗震救灾指挥机构组织跨地区调运救灾物资和装备，而不是应急部。",
+    "related_rule_id": [
+      "59"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家地震应急预案.json"
+  },
+  {
+    "id": 11,
+    "type": "TrueFalse",
+    "question": "救灾物资必须首先分配给学校、医院和福利院。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则28，救灾物资应优先保证学校、医院、福利院的需要，但并非必须首先分配，可能还有其他分配优先级或条件。",
+    "related_rule_id": [
+      "28"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家地震应急预案.json"
+  },
+  {
+    "id": 12,
+    "type": "TrueFalse",
+    "question": "省级抗震救灾指挥部组织调运抗震救灾物资装备。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则78，省级抗震救灾指挥部负责组织调运抗震救灾物资装备。",
+    "related_rule_id": [
+      "78"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家地震应急预案.json"
+  },
+  {
+    "id": 13,
+    "type": "TrueFalse",
+    "question": "根据预案，Ⅰ级响应由领导小组负责组织实施。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则19（rule_id: '19'），Ⅰ级响应由领导小组负责组织实施。",
+    "related_rule_id": [
+      "19"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家通信保障应急预案__1.json"
+  },
+  {
+    "id": 14,
+    "type": "TrueFalse",
+    "question": "根据预案，Ⅱ级响应由领导小组负责组织实施。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则20（rule_id: '20'），Ⅱ级响应由相关省级通信保障应急指挥机构负责组织实施，而不是领导小组。",
+    "related_rule_id": [
+      "20"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家通信保障应急预案__1.json"
+  },
+  {
+    "id": 15,
+    "type": "TrueFalse",
+    "question": "根据预案，省级通信保障应急指挥机构负责确认和通报I级预警。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则12，领导小组负责确认和通报I级预警，而规则13指定省级通信保障应急指挥机构只负责II、III、IV级预警。",
+    "related_rule_id": [
+      "12",
+      "13"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家通信保障应急预案__1.json"
+  },
+  {
+    "id": 16,
+    "type": "TrueFalse",
+    "question": "根据预案，领导小组应通知相关省(区、市)通信管理局和基础电信运营企业落实通信保障准备工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则15，只有在I级预警行动中，领导小组才需要通知准备工作；其他级别预警由地方通信保障应急指挥机构负责（规则18）。",
+    "related_rule_id": [
+      "15",
+      "18"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家通信保障应急预案__1.json"
+  },
+  {
+    "id": 17,
+    "type": "TrueFalse",
+    "question": "根据预案，省级通信保障应急指挥机构负责确认和通报II、III、IV级预警。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则13，省级通信保障应急指挥机构确实负责确认和通报II、III、IV级预警。",
+    "related_rule_id": [
+      "13"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家通信保障应急预案__1.json"
+  },
+  {
+    "id": 18,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生地震时，应急部应开放应急避难场所并组织筹集和调运食品、饮用水等救灾物资。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则24，应由'各有关地方和部门'负责开放避难场所和物资筹集，而不是'应急部'。",
+    "related_rule_id": [
+      "24"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家地震应急预案.json"
+  },
+  {
+    "id": 19,
+    "type": "TrueFalse",
+    "question": "根据预案，在任何灾害事件中，各有关地方和部门都应在受灾村镇、街道设置生活用品发放点。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则25，该措施仅适用于地震等重大突发事件，并非所有灾害事件。",
+    "related_rule_id": [
+      "25"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家地震应急预案.json"
+  },
+  {
+    "id": 20,
+    "type": "TrueFalse",
+    "question": "根据预案，各有关地方和部门应优先安置孤儿、孤老及残疾人员，确保其基本生活。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则29，明确指出优先安置这些特殊人群以保障其基本生活。",
+    "related_rule_id": [
+      "29"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家地震应急预案.json"
+  },
+  {
+    "id": 21,
+    "type": "TrueFalse",
+    "question": "根据国家粮食应急预案，当出现国家级（Ⅰ级）粮食应急状态时，国家粮食应急工作指挥部必须在接到报告后最迟不超过2小时内向国务院上报有关情况。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则35，指挥部必须在最迟不超过4小时内上报，而不是2小时。",
+    "related_rule_id": [
+      "35"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 22,
+    "type": "TrueFalse",
+    "question": "根据预案，国家粮食应急工作指挥部应当及时向应急部及有关部门报告事态发展变化情况。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则3，应向国务院报告，而不是应急部。",
+    "related_rule_id": [
+      "3"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 23,
+    "type": "TrueFalse",
+    "question": "根据国家粮食应急预案，省级粮食应急工作指挥部应只在工作日监测本地区粮食市场动态，并在第一时间上报重大情况至国家粮食应急工作指挥部办公室。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则44，省级指挥部应24小时监测市场动态，而不是只在工作日。",
+    "related_rule_id": [
+      "44"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 24,
+    "type": "TrueFalse",
+    "question": "依法将军队应急专业力量纳入国家应急力量体系后，应作为应急处置与救援的支援力量，而非突击力量。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则53，军队应急专业力量应作为突击力量，而不是支援力量。",
+    "related_rule_id": [
+      "53"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 25,
+    "type": "TrueFalse",
+    "question": "国家相关应急指挥机构或者各类应急预案牵头编制部门应当制定应急演练计划并定期组织演练。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则68，确实要求这些部门制定计划并定期组织演练。",
+    "related_rule_id": [
+      "68"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 26,
+    "type": "TrueFalse",
+    "question": "各地应当无条件组织所有相关应急预案的演练。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则69，各地应结合实际，有计划、有重点地组织演练，而不是无条件组织所有预案。",
+    "related_rule_id": [
+      "69"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 27,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生特别重大突发事件时，民政部应当立即向党中央和应急部报告。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则16（重大事件党中央报告），民政部应当立即向党中央、国务院报告，而不是应急部。",
+    "related_rule_id": [
+      "16"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案__1.json"
+  },
+  {
+    "id": 28,
+    "type": "TrueFalse",
+    "question": "对于一般突发事件，民政部门应当直接上报至民政部。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则15（事件上报分级流程），民政部门应当将一般突发事件逐级上报至省级民政部门，较大以上突发事件才上报至民政部。",
+    "related_rule_id": [
+      "15"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案__1.json"
+  },
+  {
+    "id": 29,
+    "type": "TrueFalse",
+    "question": "突发事件发生后，事发养老机构必须向属地有关部门和民政部门报告，不得迟报、谎报或瞒报。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则13（突发事件报告），事发养老机构应当根据突发事件应对管理职责分工向属地有关部门和民政部门报告，不得迟报、谎报、瞒报。",
+    "related_rule_id": [
+      "13"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案__1.json"
+  },
+  {
+    "id": 30,
+    "type": "TrueFalse",
+    "question": "根据预案，应急部负责指导各地民政部门加强对民政干部、养老机构工作人员的培训，增强风险防范意识和自救互救能力。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则43，应由民政部负责指导培训，而不是应急部。",
+    "related_rule_id": [
+      "43"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案__1.json"
+  },
+  {
+    "id": 31,
+    "type": "TrueFalse",
+    "question": "各地民政部门每两年组织一次对民政部门干部、养老机构负责人和工作人员的相关培训，提高专业技能。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则46，各地民政部门每年至少组织一次培训，而不是每两年。",
+    "related_rule_id": [
+      "46"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案__1.json"
+  },
+  {
+    "id": 32,
+    "type": "TrueFalse",
+    "question": "各地民政部门应根据需要积极聘请各类突发事件领域的专家，每年至少组织一次对民政部门干部、养老机构负责人和工作人员的相关培训。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则46，各地民政部门应每年至少组织一次培训。",
+    "related_rule_id": [
+      "46"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案__1.json"
+  },
+  {
+    "id": 33,
+    "type": "TrueFalse",
+    "question": "根据预案，有关部门应及时对低洼积水等危险区域、路段采取警戒、管控等措施，避免人员伤亡。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则139，有关部门应及时对低洼积水等危险区域、路段采取警戒、管控等措施，以避免人员伤亡。",
+    "related_rule_id": [
+      "139"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 34,
+    "type": "TrueFalse",
+    "question": "交通运输、电力、通信、燃气、供水等有关部门和单位应配合保障城市生命线工程安全。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则143，这些部门和单位应直接负责保障城市生命线工程和其他重要基础设施安全，而不是配合。",
+    "related_rule_id": [
+      "143"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 35,
+    "type": "TrueFalse",
+    "question": "根据预案，突发事件分级标准由应急管理部制定。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则2，分级标准应由国务院或者国务院确定的部门制定，而不是应急管理部。",
+    "related_rule_id": [
+      "2"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 36,
+    "type": "TrueFalse",
+    "question": "根据预案，公安部负责协调处置社会安全类重大突发事件。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则3，公安部负责协调处置社会安全类重大突发事件。",
+    "related_rule_id": [
+      "3"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 37,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生灾害时，应急部应及时派出卫生应急队伍或专家赴灾区协助开展紧急医学救援、灾后卫生防疫和应急心理干预等工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则103，应由国家卫生健康委派出卫生应急队伍或专家，而不是应急部。",
+    "related_rule_id": [
+      "103"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 38,
+    "type": "TrueFalse",
+    "question": "根据预案，当地防汛抗旱指挥机构应组织专业和群众防汛队伍巡堤查险，严密布防，无需其他前提条件。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则133，此行动的前提是当江河水位超过警戒水位时，否则不适用。",
+    "related_rule_id": [
+      "133"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 39,
+    "type": "TrueFalse",
+    "question": "根据预案，参加一线抗洪抢险的人员必须穿救生衣，携带必要的安全防护器具。",
+    "answer": true,
+    "analysis": "该陈述正确。规则227明确规定参加一线抗洪抢险的人员必须穿救生衣并携带安全防护器具。",
+    "related_rule_id": [
+      "227"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 40,
+    "type": "TrueFalse",
+    "question": "根据预案，当研判可能发生国家重大海上溢油时，相关省级人民政府应当向管辖区域公众发布预警信息。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则35，相关省级人民政府和行业行政主管部门在研判可能发生国家重大海上溢油时，有责任及时发布预警信息。",
+    "related_rule_id": [
+      "35"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案__1.json"
+  },
+  {
+    "id": 41,
+    "type": "TrueFalse",
+    "question": "根据预案，当研判可能发生国家重大海上溢油时，应急管理部应当通过国家预警发布系统等渠道发布预警信息。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则35，预警信息发布应由相关省级人民政府和行业行政主管部门负责，而不是应急管理部；规则中未提及应急管理部作为发布主体。",
+    "related_rule_id": [
+      "35"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案__1.json"
+  },
+  {
+    "id": 42,
+    "type": "TrueFalse",
+    "question": "根据预案，当引发国家重大海上溢油的可能性已经消除时，省级人民政府应当宣布解除预警。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则37，相关省级人民政府和行业行政主管部门在宣布解除预警前，必须先报告中国海上溢油应急中心；该陈述缺失了报告这一关键步骤。",
+    "related_rule_id": [
+      "37"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案__1.json"
+  },
+  {
+    "id": 43,
+    "type": "TrueFalse",
+    "question": "根据国家粮食应急预案，应急部负责应急工作的综合协调。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则7，应由国家发展改革委及国家粮食局负责应急工作的综合协调，而不是应急部。",
+    "related_rule_id": [
+      "7"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 44,
+    "type": "TrueFalse",
+    "question": "国家粮食应急工作指挥部在任何情况下都立即进入应急工作状态。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则37，国家粮食应急工作指挥部仅在国务院批准启动预案后才进入应急工作状态，而不是无条件触发。",
+    "related_rule_id": [
+      "37"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 45,
+    "type": "TrueFalse",
+    "question": "中国储备粮管理总公司必须在12小时内将中央储备粮调拨到位。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则40，中国储备粮管理总公司需在规定时间内完成调拨，但预案未指定必须12小时内；数值微调后与原规则不符。",
+    "related_rule_id": [
+      "40"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 46,
+    "type": "TrueFalse",
+    "question": "根据预案，应急管理部应当单独负责加强所有行业领域的专业应急力量建设。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则52，应由宣传、网信、工业和信息化等多个部门根据职责分工加强本行业领域专业应急力量建设，而不是应急管理部单独负责。",
+    "related_rule_id": [
+      "52"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 47,
+    "type": "TrueFalse",
+    "question": "根据预案，各地各有关部门应当只为参与应急救援的人员购买人身意外伤害保险。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则56，应为参与应急救援、传染病疫情防控等的人员购买人身意外伤害保险，而不仅仅是应急救援。",
+    "related_rule_id": [
+      "56"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 48,
+    "type": "TrueFalse",
+    "question": "根据预案，各有关方面应当有计划地对领导干部、应急救援和管理人员进行培训，以提高应急能力。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则73，确实要求有计划地对领导干部、应急救援和管理人员进行培训，以提高其应急能力。",
+    "related_rule_id": [
+      "73"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 49,
+    "type": "TrueFalse",
+    "question": "根据预案，领导小组应根据掌握的信息及应急部的有关工作要求，召开相关成员单位会商会议，协调组织跨部门、跨地区、跨企业应急通信保障队伍及应急装备的调用。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则23，领导小组应根据掌握的信息及国务院的有关工作要求召开会商会议，而不是应急部。",
+    "related_rule_id": [
+      "23"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家通信保障应急预案.json"
+  },
+  {
+    "id": 50,
+    "type": "TrueFalse",
+    "question": "根据预案，现场指挥按照领导小组的要求，成立以中央指挥为主的现场通信保障应急指挥机构，组织、协调现场通信保障应急工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则26，现场指挥应成立以事发省（区、市）通信管理局指挥为主的现场机构，而不是中央。",
+    "related_rule_id": [
+      "26"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家通信保障应急预案.json"
+  },
+  {
+    "id": 51,
+    "type": "TrueFalse",
+    "question": "根据预案，通信主管部门应建立与有关部门的灾害预警信息共享机制。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则4，通信主管部门确实应建立灾害预警信息共享机制。",
+    "related_rule_id": [
+      "4"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家通信保障应急预案.json"
+  },
+  {
+    "id": 52,
+    "type": "TrueFalse",
+    "question": "根据国家粮食应急预案，铁道部和交通部配合根据粮食应急工作的需要，及时安排落实应急粮食的运输。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则13，铁道部和交通部负责应急粮食的运输，而不是配合。",
+    "related_rule_id": [
+      "13"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 53,
+    "type": "TrueFalse",
+    "question": "中国储备粮管理总公司负责中央储备粮动用计划的执行，具体落实粮食出库库点，及时拟定上报重点运输计划，商有关部门合理安排运输，确保在12小时内将粮食调拨到位，并将有关落实情况分别报送国家粮食应急工作指挥部成员单位。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则40，中国储备粮管理总公司确保在规定时间内调拨粮食，但规则未指定具体时限为12小时；实际执行时间取决于具体情况和指挥部的安排。",
+    "related_rule_id": [
+      "40"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 54,
+    "type": "TrueFalse",
+    "question": "根据国家粮食应急预案，中国储备粮管理总公司根据国家粮食应急工作指挥部的安排，负责中央储备粮动用计划的执行。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则40，中国储备粮管理总公司确实负责执行中央储备粮动用计划，并需根据指挥部的安排进行。",
+    "related_rule_id": [
+      "40"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 55,
+    "type": "TrueFalse",
+    "question": "根据预案，公安机关应及时介入食品安全事故的违法犯罪侦破工作。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则40，公安机关应及时介入，开展相关违法犯罪行为侦破工作。",
+    "related_rule_id": [
+      "40"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家食品安全事故应急预案.json"
+  },
+  {
+    "id": 56,
+    "type": "TrueFalse",
+    "question": "事故调查组配合调查食品安全事故的原因。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则13，事故调查组负责调查事故发生原因，而不是配合；这使用了偷换概念策略，将‘负责’替换为‘配合’。",
+    "related_rule_id": [
+      "13"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家食品安全事故应急预案.json"
+  },
+  {
+    "id": 57,
+    "type": "TrueFalse",
+    "question": "上级人民政府在所有食品安全事故中都派出工作组指导应急处置工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则34，上级人民政府只在必要时派出工作组，而不是在所有事故中；这使用了条件缺失策略，去掉了‘必要时’的前提条件。",
+    "related_rule_id": [
+      "34"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家食品安全事故应急预案.json"
+  },
+  {
+    "id": 58,
+    "type": "TrueFalse",
+    "question": "根据《国家城市轨道交通运营突发事件应急预案》，初判发生特别重大运营突发事件时，应启动Ⅰ级应急响应，由应急部负责应对工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则6，初判发生特别重大或重大运营突发事件时，应由事发地省级人民政府负责应对工作，而非应急部。",
+    "related_rule_id": [
+      "6"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家城市轨道交通运营突发事件应急预案__1.json"
+  },
+  {
+    "id": 59,
+    "type": "TrueFalse",
+    "question": "根据预案，初判发生一般运营突发事件时，应直接由事发地省级人民政府负责应对工作。",
+    "answer": false,
+    "analysis": "该陈述错误。规则6仅明确特别重大或重大运营突发事件的应对主体为省级人民政府，未提及一般事件的处置方式，属于条件缺失错误。",
+    "related_rule_id": [
+      "6"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家城市轨道交通运营突发事件应急预案__1.json"
+  },
+  {
+    "id": 60,
+    "type": "TrueFalse",
+    "question": "初判发生较大运营突发事件时，应启动Ⅱ级应急响应，由事发地省级人民政府负责应对工作。",
+    "answer": true,
+    "analysis": "该陈述正确。规则6规定重大运营突发事件启动Ⅱ级响应且由省级政府负责，但未排除较大事件适用相同规则的可能性（注：此为陷阱题，实际规则未明确覆盖此情形，但题目严格遵循了原始文本表述）。",
+    "related_rule_id": [
+      "6"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家城市轨道交通运营突发事件应急预案__1.json"
+  },
+  {
+    "id": 61,
+    "type": "TrueFalse",
+    "question": "根据国家粮食应急预案，应急部值班室必须24小时值班，及时记录并反映有关情况。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则36，应由国家粮食应急工作指挥部办公室负责24小时值班，而不是应急部值班室。",
+    "related_rule_id": [
+      "36"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 62,
+    "type": "TrueFalse",
+    "question": "国家粮食应急工作指挥部办公室必须12小时值班，及时记录并反映有关情况。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则36，值班要求是24小时，而不是12小时。",
+    "related_rule_id": [
+      "36"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 63,
+    "type": "TrueFalse",
+    "question": "国家粮食应急工作指挥部办公室必须24小时值班，及时记录并反映有关情况。",
+    "answer": true,
+    "analysis": "该陈述正确。规则36明确规定国家粮食应急工作指挥部办公室必须24小时值班，及时记录并反映有关情况。",
+    "related_rule_id": [
+      "36"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案.json"
+  },
+  {
+    "id": 64,
+    "type": "TrueFalse",
+    "question": "根据预案，各级机构应统一由中央负责储备防汛抗旱抢险救援救灾物资。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则34，物资储备遵循'分级负责'原则，而非统一由中央负责。",
+    "related_rule_id": [
+      "34"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 65,
+    "type": "TrueFalse",
+    "question": "根据预案，应储备应急用水以备防汛抗旱之需。",
+    "answer": false,
+    "analysis": "该陈述错误。规则70明确要求'居民、企事业单位'为主体进行应急用水储备，而非笼统的'应储备'。",
+    "related_rule_id": [
+      "70"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 66,
+    "type": "TrueFalse",
+    "question": "根据预案，当江河湖泊达到警戒水位时，应急管理部门应立即调运抢险物资至灾区。",
+    "answer": false,
+    "analysis": "该陈述错误。规则223要求提前'落实'物资并'做好准备'，但未授权立即调运；物资调运实际需根据规则112'灾区请求'触发。",
+    "related_rule_id": [
+      "223",
+      "112"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 67,
+    "type": "TrueFalse",
+    "question": "根据预案，生态环境部负责协调处置突发生态环境事件应急工作。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则6，生态环境部负责协调处置突发生态环境事件应急工作。",
+    "related_rule_id": [
+      "6"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 68,
+    "type": "TrueFalse",
+    "question": "根据预案，公安部负责协调处理网络安全、网络数据安全与信息安全类突发事件。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则7，应由中央网信办负责协调处理网络安全类突发事件，而不是公安部。",
+    "related_rule_id": [
+      "7"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 69,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生突发事件时，应由上一级党委和政府指挥协调应对工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则28，只有在超出本行政区域应对能力时，才由上一级党委和政府指挥协调应对工作。",
+    "related_rule_id": [
+      "28"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家突发事件总体应急预案.json"
+  },
+  {
+    "id": 70,
+    "type": "TrueFalse",
+    "question": "根据预案，国家应急部负责监督参与国家重大海上溢油应急处置行动的有关单位执行预案的情况。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则9，应由国家重大海上溢油应急处置部际联席会议负责监督，而不是应急部。",
+    "related_rule_id": [
+      "9"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案.json"
+  },
+  {
+    "id": 71,
+    "type": "TrueFalse",
+    "question": "中国海上溢油应急中心负责协调核实所有海上溢油情况，组织开展预评估。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则16，中国海上溢油应急中心只负责重大海上溢油情况的核实和预评估，并非所有情况。",
+    "related_rule_id": [
+      "16"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案.json"
+  },
+  {
+    "id": 72,
+    "type": "TrueFalse",
+    "question": "现场指挥部负责在12小时内完成海上溢油评估工作，包括查明溢油源和预测扩散范围。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则63，现场指挥部负责组织开展评估工作，但规则未指定时间限制，仅要求及时报告。",
+    "related_rule_id": [
+      "63"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家重大海上溢油应急处置预案.json"
+  },
+  {
+    "id": 73,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生特别重大食品安全事故时，应由应急部批准启动I级响应，并成立指挥部。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则5和42，启动I级响应需卫生部会同食品安全办向国务院提出建议，经国务院批准后成立指挥部，而不是应急部。",
+    "related_rule_id": [
+      "5",
+      "42"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家食品安全事故应急预案__1.json"
+  },
+  {
+    "id": 74,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生重大食品安全事故时，应由事故发生地的省级人民政府启动响应级别，并成立应急处置指挥机构。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则43，重大食品安全事故由事故发生地的省级人民政府启动相应级别响应并成立应急处置指挥机构。",
+    "related_rule_id": [
+      "43"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家食品安全事故应急预案__1.json"
+  },
+  {
+    "id": 75,
+    "type": "TrueFalse",
+    "question": "根据预案，当发生一般食品安全事故时，应由国务院直接负责指挥应急处置工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则6和43，一般食品安全事故由事故发生地的县级人民政府启动响应并成立应急处置指挥机构，而不是国务院。",
+    "related_rule_id": [
+      "6",
+      "43"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家食品安全事故应急预案__1.json"
+  },
+  {
+    "id": 76,
+    "type": "TrueFalse",
+    "question": "在洪水灾害应对中，地方应急管理部门应协调转运车辆帮助养老机构转移被困人员。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则40，应由地方民政部门协调转运车辆或船只帮助转移被困人员，而不是应急管理部门。",
+    "related_rule_id": [
+      "40"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案.json"
+  },
+  {
+    "id": 77,
+    "type": "TrueFalse",
+    "question": "在火灾灾害应对中，养老机构应当将老年人转移到远离陡坡的区域。",
+    "answer": false,
+    "analysis": "该陈述错误。规则12指定在台风、山体滑坡等灾害中应转移到远离陡坡等高风险区域，而火灾应对规则14要求及时疏散老年人，但未指定远离陡坡。",
+    "related_rule_id": [
+      "12",
+      "14"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案.json"
+  },
+  {
+    "id": 78,
+    "type": "TrueFalse",
+    "question": "对重病、重伤老年人，地方民政部门应协调一般车辆进行转运，以避免发生意外。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则41，对重病、重伤老年人应协调救护车等专业转运工具进行转运，而不是一般车辆。",
+    "related_rule_id": [
+      "41"
+    ],
+    "difficulty": "Medium",
+    "source_file": "养老机构突发事件应急预案.json"
+  },
+  {
+    "id": 79,
+    "type": "TrueFalse",
+    "question": "根据预案，自然资源部配合全国赤潮灾害监测、预警和调查评估的组织协调和监督指导。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则1，自然资源部负责全国赤潮灾害监测、预警和调查评估的组织协调和监督指导，而不是配合。",
+    "related_rule_id": [
+      "1"
+    ],
+    "difficulty": "Medium",
+    "source_file": "赤潮灾害应急预案.json"
+  },
+  {
+    "id": 80,
+    "type": "TrueFalse",
+    "question": "在I级监测中，海区局或省级自然资源（海洋）主管部门应将信息报送频次设置为每日2次。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则17，信息报送频次为每日1次，而不是每日2次。",
+    "related_rule_id": [
+      "17"
+    ],
+    "difficulty": "Medium",
+    "source_file": "赤潮灾害应急预案.json"
+  },
+  {
+    "id": 81,
+    "type": "TrueFalse",
+    "question": "各海区局应加强对省级自然资源（海洋）主管部门预案执行的监督。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则29，各海区局应加强对省级自然资源（海洋）主管部门预案执行的监督。",
+    "related_rule_id": [
+      "29"
+    ],
+    "difficulty": "Medium",
+    "source_file": "赤潮灾害应急预案.json"
+  },
+  {
+    "id": 82,
+    "type": "TrueFalse",
+    "question": "根据预案，在粮食应急状态下，当国内可能出现粮食供不应求时，中国储备粮管理总公司或省级人民政府有关部门可报请国家发展改革委及国家粮食局、商务部，经请示应急部批准后，按职责分工迅速组织粮食进口。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则40，应经请示国务院批准，而不是应急部。",
+    "related_rule_id": [
+      "40"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案__1.json"
+  },
+  {
+    "id": 83,
+    "type": "TrueFalse",
+    "question": "根据预案，省级人民政府必须按照产区保持一个月销量、销区保持六个月销量的要求加强和充实地方粮食储备。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则52，产区应保持三个月销量，而不是一个月。",
+    "related_rule_id": [
+      "52"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案__1.json"
+  },
+  {
+    "id": 84,
+    "type": "TrueFalse",
+    "question": "根据预案，中国储备粮管理总公司负责中央储备粮动用计划的执行。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则21，中国储备粮管理总公司负责中央储备粮动用计划的执行。",
+    "related_rule_id": [
+      "21"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家粮食应急预案__1.json"
+  },
+  {
+    "id": 85,
+    "type": "TrueFalse",
+    "question": "根据预案，当近岸海域发现有毒赤潮面积900平方千米以上时，应启动赤潮灾害I级应急响应。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则4，启动I级响应需要有毒赤潮面积1000平方千米以上，而不是900平方千米以上。",
+    "related_rule_id": [
+      "4"
+    ],
+    "difficulty": "Medium",
+    "source_file": "赤潮灾害应急预案__1.json"
+  },
+  {
+    "id": 86,
+    "type": "TrueFalse",
+    "question": "根据预案，当需要赤潮应急监测及预警时，应由应急部组织专家赴赤潮灾害现场提供决策咨询和技术支持。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则12，应由海区局或省级自然资源（海洋）主管部门组织，而不是应急部。",
+    "related_rule_id": [
+      "12"
+    ],
+    "difficulty": "Medium",
+    "source_file": "赤潮灾害应急预案__1.json"
+  },
+  {
+    "id": 87,
+    "type": "TrueFalse",
+    "question": "根据预案，当近岸海域有害赤潮面积1000~3000平方千米时，必须启动赤潮灾害II级应急响应。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则5，有害赤潮面积1000~3000平方千米是启动II级响应的条件之一。",
+    "related_rule_id": [
+      "5"
+    ],
+    "difficulty": "Medium",
+    "source_file": "赤潮灾害应急预案__1.json"
+  },
+  {
+    "id": 88,
+    "type": "TrueFalse",
+    "question": "根据预案，债务应急领导小组配合组织、协调、指挥政府性债务风险事件应对工作。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则8，债务应急领导小组负责组织、协调、指挥政府性债务风险事件应对工作，而不是配合。",
+    "related_rule_id": [
+      "8"
+    ],
+    "difficulty": "Medium",
+    "source_file": "地方政府性债务风险应急处置预案__1.json"
+  },
+  {
+    "id": 89,
+    "type": "TrueFalse",
+    "question": "根据预案，上级债务管理领导小组应当密切关注事态变化，加强政策指导，及时组织召开专题会议通报风险处置情况，并在必要时成立工作组进驻风险地区以指导支持债务风险处置工作。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则30，上级债务管理领导小组确实负有这些职责。",
+    "related_rule_id": [
+      "30"
+    ],
+    "difficulty": "Medium",
+    "source_file": "地方政府性债务风险应急处置预案__1.json"
+  },
+  {
+    "id": 90,
+    "type": "TrueFalse",
+    "question": "根据预案，上级政府应当及时跟踪和研判舆情，健全新闻发布制度，指定专门的新闻发言人，统一对外发布信息，正确引导舆论。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则38，应由启动应急响应的地方政府或其债务风险应急领导小组负责这些工作，而不是上级政府。",
+    "related_rule_id": [
+      "38"
+    ],
+    "difficulty": "Medium",
+    "source_file": "地方政府性债务风险应急处置预案__1.json"
+  },
+  {
+    "id": 91,
+    "type": "TrueFalse",
+    "question": "根据预案，启动应急响应的地方政府应当部署各有关部门安排人员具体落实相关工作。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则45，启动应急响应的地方政府应当部署有关部门安排人员落实相关工作。",
+    "related_rule_id": [
+      "45"
+    ],
+    "difficulty": "Medium",
+    "source_file": "地方政府性债务风险应急处置预案__1.json"
+  },
+  {
+    "id": 92,
+    "type": "TrueFalse",
+    "question": "根据预案，在终止应急措施之前，地方政府不得重用或提拔政府主要领导同志。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则57，在终止应急措施之前，有关任免机关（而非地方政府）不得重用或提拔政府主要领导同志，前提是债务风险事件在本届政府任期内发生。",
+    "related_rule_id": [
+      "57"
+    ],
+    "difficulty": "Medium",
+    "source_file": "地方政府性债务风险应急处置预案__1.json"
+  },
+  {
+    "id": 93,
+    "type": "TrueFalse",
+    "question": "各地应提高地方政府性债务管理人员的应急处置能力，以加强队伍建设。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则44，应提高政策理论、日常管理、风险监测、应急处置、舆情应对等多种业务能力，而不仅仅是应急处置能力。",
+    "related_rule_id": [
+      "44"
+    ],
+    "difficulty": "Medium",
+    "source_file": "地方政府性债务风险应急处置预案__1.json"
+  },
+  {
+    "id": 94,
+    "type": "TrueFalse",
+    "question": "根据预案，应急部应向可能受影响的省（自治区、直辖市）防灾减灾救灾委员会或应急管理部门通报预警预报信息，并提出灾害救助准备工作要求。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则10（预警信息通报与工作要求），应由国家防灾减灾救灾委员会办公室负责通报信息并提出要求，而不是应急部。",
+    "related_rule_id": [
+      "10"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家自然灾害救助应急预案.json"
+  },
+  {
+    "id": 95,
+    "type": "TrueFalse",
+    "question": "根据预案，气象、自然资源、水利、农业农村、海洋、林草、地震等部门应及时向国家防灾减灾救灾委员会办公室和履行救灾职责的国家防灾减灾救灾委员会成员单位通报灾害预警预报信息。",
+    "answer": true,
+    "analysis": "该陈述正确，直接引用规则8（灾害预警信息通报）。",
+    "related_rule_id": [
+      "8"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家自然灾害救助应急预案.json"
+  },
+  {
+    "id": 96,
+    "type": "TrueFalse",
+    "question": "根据预案，长江、黄河、淮河、海河等重要江河湖泊的防御洪水方案由地方政府组织制定。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则5，防御洪水方案应由国家防总依法组织制定，而不是地方政府。",
+    "related_rule_id": [
+      "5"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 97,
+    "type": "TrueFalse",
+    "question": "当水库出现险情征兆时，水库管理单位必须立即向所有基层人民政府发出预警。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则22，预警应只向预计垮坝淹没区域的有关基层人民政府和基层组织发出，而不是所有地区。",
+    "related_rule_id": [
+      "22"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 98,
+    "type": "TrueFalse",
+    "question": "可能遭受山洪灾害威胁的地方应根据山洪灾害的成因和特点，主动采取预防和避险措施。",
+    "answer": true,
+    "analysis": "该陈述正确。根据规则50，确实要求可能遭受山洪灾害威胁的地方主动采取预防和避险措施。",
+    "related_rule_id": [
+      "50"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家防汛抗旱应急预案__1.json"
+  },
+  {
+    "id": 99,
+    "type": "TrueFalse",
+    "question": "根据预案，在抗震救灾中，应急部负责组织抢修通信、电力、交通等基础设施。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则60，应由国务院抗震救灾指挥机构负责组织抢修，而不是应急部。",
+    "related_rule_id": [
+      "60"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家地震应急预案.json"
+  },
+  {
+    "id": 100,
+    "type": "TrueFalse",
+    "question": "根据预案，工业和信息化部门应立即启动应急卫星、短波等无线通信系统和终端设备，以确保通信畅通。",
+    "answer": false,
+    "analysis": "该陈述错误。根据规则88，只有在基础通信网络遭到严重损毁且短时间难以修复的极端情况下，才需要立即启动这些应急通信系统。",
+    "related_rule_id": [
+      "88"
+    ],
+    "difficulty": "Medium",
+    "source_file": "国家地震应急预案.json"
+  }
+]
